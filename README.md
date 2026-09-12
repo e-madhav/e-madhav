@@ -43,8 +43,8 @@
 
 ### 📌 Featured Projects
 
-- **[Sentinel.OS](https://github.com/e-madhav/Sentinal.os)** — A deepfake detection AI pipeline built with computer vision models (EfficientNet, ResNet) to identify manipulated media.
-- **[MySpace](https://github.com/e-madhav/Myspace)** — A multi-user productivity suite for organizing tasks and collaboration, built with a modern full-stack setup.
+- **[Sentinel.OS](https://github.com/e-madhav/Sentinal.os)** — A deepfake detection AI pipeline built with computer vision models (EfficientNet, ResNet) to identify manipulated media. 🔗 [Live demo](https://sentinal-os-eosin.vercel.app/)
+- **[MySpace](https://github.com/e-madhav/Myspace)** — A multi-user productivity suite for organizing tasks and collaboration, built with a modern full-stack setup. 🔗 [Live demo](https://myspaceitis.vercel.app/)
 
 ---
 
@@ -52,8 +52,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=e-madhav&show_icons=true&theme=default" alt="Madhav's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-madhav&theme=default" alt="Madhav's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=e-madhav&theme=default" alt="Madhav's GitHub streak" height="165"/>
 </p>
+
+> Note: these stat cards are hosted by a free third-party service (github-readme-stats / streak-stats). They can occasionally be slow or temporarily down since GitHub doesn't host them itself — if an image doesn't load, just refresh the page after a bit.
 
 ---
 
