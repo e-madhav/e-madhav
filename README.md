@@ -57,7 +57,7 @@
   </a>
 </p>
 
-- 🏅 **199 problems solved** across Python3, C++, and Python
+- 🏅 **198 problems solved** across Python3 and Python
 - 💪 Comfortable with **Dynamic Programming, Union-Find, Divide & Conquer**, and core DSA (Arrays, Strings, Hash Tables, Binary Search)
 - 🔥 Active in daily challenges — earned the **50 Days Badge 2026** and **June LeetCoding Challenge** badge
 
