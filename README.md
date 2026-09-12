@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/madhav_emineni/">
-    <img src="https://leetcode-stats-card.vercel.app/?username=madhav_emineni&theme=light" alt="Madhav's LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/madhav_emineni?theme=light&font=Baloo+2&extension=activity" alt="Madhav's LeetCode stats" />
   </a>
 </p>
 
