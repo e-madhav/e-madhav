@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhav-emineni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/madhav_emineni/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -48,14 +49,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-madhav&show_icons=true&theme=default" alt="Madhav's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=e-madhav&theme=default" alt="Madhav's GitHub streak" height="165"/>
+  <a href="https://leetcode.com/u/madhav_emineni/">
+    <img src="https://leetcode-stats-card.vercel.app/?username=madhav_emineni&theme=light" alt="Madhav's LeetCode stats" />
+  </a>
 </p>
 
-> Note: these stat cards are hosted by a free third-party service (github-readme-stats / streak-stats). They can occasionally be slow or temporarily down since GitHub doesn't host them itself — if an image doesn't load, just refresh the page after a bit.
+- 🏅 **199 problems solved** across Python3, C++, and Python
+- 💪 Comfortable with **Dynamic Programming, Union-Find, Divide & Conquer**, and core DSA (Arrays, Strings, Hash Tables, Binary Search)
+- 🔥 Active in daily challenges — earned the **50 Days Badge 2026** and **June LeetCoding Challenge** badge
 
 ---
 
