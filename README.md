@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Madhav Emineni</h1>
+<h3 align="center">CS @ GCOEA | ML & GenAI Developer · PyTorch · Full-Stack (React + Node.js) · DSA</h3>
 
-<!--
-**e-madhav/e-madhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhav-emineni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (IoT Minor) @ Government College of Engineering, Amravati (2023–2027)
+- 🔭 Building projects in **AI/ML, Deep Learning, Computer Vision, IoT Automation, and Cybersecurity**
+- 🌱 Currently exploring GenAI and full-stack development
+- 💼 Looking for internship opportunities in AI/ML and Software Development
+- ⚡ Fun fact: I like turning research ideas into working products
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Web & Backend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- **[Sentinel.OS](https://github.com/e-madhav/Sentinal.os)** — A deepfake detection AI pipeline built with computer vision models (EfficientNet, ResNet) to identify manipulated media.
+- **[MySpace](https://github.com/e-madhav/Myspace)** — A multi-user productivity suite for organizing tasks and collaboration, built with a modern full-stack setup.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=e-madhav&show_icons=true&theme=default" alt="Madhav's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-madhav&theme=default" alt="Madhav's GitHub streak" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to connect or check out my repos!</i></p>
